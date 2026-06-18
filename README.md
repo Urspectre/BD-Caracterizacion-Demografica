@@ -47,11 +47,6 @@ El modelo contempla entidades relacionadas con:
 
 Participé en el diseño e implementación de la base de datos como parte de un proyecto académico grupal, colaborando en el modelado relacional, definición de entidades, relaciones e implementación en SQL Server.
 
-## Estructura del repositorio
-
-* `sql/`: Script de creación y carga de la base de datos.
-* `docs/`: Diagramas y documentación del modelo.
-* `README.md`: Descripción general del proyecto.
 
 ## Autor
 
